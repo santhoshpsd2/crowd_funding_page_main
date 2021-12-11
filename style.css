@@ -622,7 +622,7 @@ main {
   background-color: red;
 }
 
-@media (min-width: 1439px) {
+@media (min-width: 1200px) {
   .mobile_nav {
     display: none;
   }
